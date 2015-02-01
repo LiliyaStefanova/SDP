@@ -13,6 +13,11 @@ public class Person {
         this.userID = u;
     }
 
+    public Person(){
+        this("Fred", "1234xyz");
+
+    }
+
     public String getName() {
         return name;
     }
@@ -27,5 +32,9 @@ public class Person {
 
     public void setUserID(String userID) {
         this.userID = userID;
+    }
+    @Override
+    public String toString(){
+        return "Name: "+getName() + "|"+"User id: "+getUserID();
     }
 }
