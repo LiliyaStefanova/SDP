@@ -4,11 +4,14 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DI_Guice_Java/DI_Guice_Java.iml" filepath="$PROJECT_DIR$/DI_Guice_Java/DI_Guice_Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Groovy/Groovy.iml" filepath="$PROJECT_DIR$/Groovy/Groovy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelpSession_300315/HelpSession_300315.iml" filepath="$PROJECT_DIR$/HelpSession_300315/HelpSession_300315.iml" />
       <module fileurl="file://$PROJECT_DIR$/SDP.iml" filepath="$PROJECT_DIR$/SDP.iml" />
       <module fileurl="file://$PROJECT_DIR$/Scala/Scala.iml" filepath="$PROJECT_DIR$/Scala/Scala.iml" />
       <module fileurl="file://$PROJECT_DIR$/Scala-Week3-2201/Scala-Week3-2201.iml" filepath="$PROJECT_DIR$/Scala-Week3-2201/Scala-Week3-2201.iml" />
       <module fileurl="file://$PROJECT_DIR$/ScalaExercises/ScalaExercises.iml" filepath="$PROJECT_DIR$/ScalaExercises/ScalaExercises.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week1-0801/Week1-0801.iml" filepath="$PROJECT_DIR$/Week1-0801/Week1-0801.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week10-1203/Week10-1203.iml" filepath="$PROJECT_DIR$/Week10-1203/Week10-1203.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week11-1903/Week11-1903.iml" filepath="$PROJECT_DIR$/Week11-1903/Week11-1903.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week2-1501/Week2-1501.iml" filepath="$PROJECT_DIR$/Week2-1501/Week2-1501.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week3-2201/Week3-2201.iml" filepath="$PROJECT_DIR$/Week3-2201/Week3-2201.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week4-2901/Week4-2901.iml" filepath="$PROJECT_DIR$/Week4-2901/Week4-2901.iml" />
@@ -18,7 +21,11 @@
       <module fileurl="file://$PROJECT_DIR$/Week7-1902/Week7-1902.iml" filepath="$PROJECT_DIR$/Week7-1902/Week7-1902.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week8-2602/Week8-2602.iml" filepath="$PROJECT_DIR$/Week8-2602/Week8-2602.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week8-2602-Scala/Week8-2602-Scala.iml" filepath="$PROJECT_DIR$/Week8-2602-Scala/Week8-2602-Scala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week9-0503/Week9-0503.iml" filepath="$PROJECT_DIR$/Week9-0503/Week9-0503.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week9-0503-java/Week9-0503-java.iml" filepath="$PROJECT_DIR$/Week9-0503-java/Week9-0503-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/akka_actors/akka_actors.iml" filepath="$PROJECT_DIR$/akka_actors/akka_actors.iml" />
       <module fileurl="file://$PROJECT_DIR$/coursera/coursera.iml" filepath="$PROJECT_DIR$/coursera/coursera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scala-revision/scala-revision.iml" filepath="$PROJECT_DIR$/scala-revision/scala-revision.iml" />
     </modules>
   </component>
 </project>
