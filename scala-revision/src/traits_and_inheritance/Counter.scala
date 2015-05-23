@@ -1,4 +1,4 @@
-package exercise
+package traits_and_inheritance
 
 /**
  * Created by liliya on 15/01/2015.
@@ -15,8 +15,9 @@ class Counter(val counter: Int) {
 
   def count() = counter
 
-  def adjust(adder: Adder) = new Counter(adder.add(counter))
-
+  def adjust(f:Int=>Int) = new Counter(f(counter))
+  
+  
 }
 
 //add counter to adder
@@ -32,8 +33,8 @@ object Counter extends App {
   println(new Counter(10).inc().inc(5).dec(2).count())
   println(new Counter(10).inc.inc(10).dec(2).dec.count())
   println(new Adder(5).add(2))
-  println(new Counter(10).adjust(new Adder(5)).count())
   val item = new Adder(5)
   item(2)
+  println(new Counter(10).adjust(_ + 5))
 
 }
